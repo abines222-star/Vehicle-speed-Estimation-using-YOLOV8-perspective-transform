@@ -1,0 +1,4 @@
+DATA/OUTPUTS/
+__pycache__/
+*.pt
+*.csv.tmp
